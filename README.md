@@ -1,13 +1,13 @@
 # Tatl → Navvi
 
-**Tatl has been merged into [Navvi](https://github.com/Fellowship-dev/navvi).**
+**Tatl has been merged into [Navvi](https://github.com/fellowship-dev/navvi).**
 
 The companion agents (`navvi-browse`, `navvi-login`, `navvi-signup`) now ship with Navvi directly.
 
 ## Install
 
 ```bash
-npx skills add Fellowship-dev/navvi
+npx skills add fellowship-dev/navvi
 ```
 
 Or add the MCP server:
@@ -23,4 +23,4 @@ Or add the MCP server:
 }
 ```
 
-See **[Fellowship-dev/navvi](https://github.com/Fellowship-dev/navvi)** for full documentation.
+See **[fellowship-dev/navvi](https://github.com/fellowship-dev/navvi)** for full documentation.
